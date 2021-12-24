@@ -3,7 +3,7 @@ Integrated Circuit (IC) Design Package Community and Eco System
 
 ## About
 Viper-forge is a community and eco system dedicated to making it quicker and easier to design an integrated circuit.  
-It includes packages that can contain EDA tools, design libraries, and other productivity tools.  It supports both free open source and commercial close source tools.
+It includes packages that can contain EDA tools, design libraries, and other productivity tools.  It supports both free open source and commercial close source tools.  It aims to add IC design packages to conda-forge.
 
 ## Viper Packages
 Viper packages are Conda packages that follow the viper standard.  This standard ensures they work together in a viper environment to make their contents accessible and easy to install.
