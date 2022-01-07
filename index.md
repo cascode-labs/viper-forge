@@ -9,7 +9,7 @@ Viper and viper-forge packages make it really easy to get started designing an i
 We're currently developing Conda build recipes for an initial set of projects to support on viper-forge.
 
 ### Viper Free Silicon Environment Packages
-- [Viper](https://github.com/cascode-labs/viper) IC design Environment
+- [Viper](http://www.cascode-labs.org/viper/) IC design Environment
 - [xschem](http://repo.hu/projects/xschem/xschem_man/xschem_man.html) Schematic Editor
 - [magic](http://opencircuitdesign.com/magic/index.html) layout editor
 - [xcircuit](http://opencircuitdesign.com/xcircuit/index.html) schematic editor
