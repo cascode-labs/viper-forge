@@ -21,7 +21,7 @@ We're currently developing Conda build recipes for an initial set of projects to
 
 ## Cadence Virtuoso Support Packages
 
-- [virtue](http://www.cascode-labs.org/virtue/)
+- [virtue](http://www.cascode-labs.org/virtue/) Cadence Virtuoso support
 - [skill-bridge](https://unihd-cag.github.io/skillbridge/) Python-SKILL interface
 - [libpsf](https://pypi.org/project/libpsf/) Spectre PSF results reader
 
