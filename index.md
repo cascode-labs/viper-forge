@@ -10,7 +10,7 @@ We're currently developing Conda build recipes for an initial set of projects to
 
 ## Viper environments
 
-We're also developing a set of curated viper environments that are known to work.  These will be Conda environment definition yaml files containing the packages required by the environment.
+We're also developing a set of curated viper environments.  This includes completely free and Cadence Virtuoso environments.  These will be Conda environment definition yaml files containing the packages required by the environment once some of the packages are available.
 
 ### Free Silicon Environment Packages
 
