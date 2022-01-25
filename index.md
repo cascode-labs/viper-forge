@@ -12,7 +12,7 @@ We're currently developing Conda build recipes for an initial set of projects to
 
 We're also developing a set of curated viper environments that are known to work.  These will be Conda environment definition yaml files containing the packages required by the environment.
 
-### Viper Free Silicon Environment Packages
+### Free Silicon Environment Packages
 
 - [Viper](http://www.cascode-labs.org/viper/) IC design Environment
 - [xschem](http://repo.hu/projects/xschem/xschem_man/xschem_man.html) Schematic Editor
@@ -22,6 +22,7 @@ We're also developing a set of curated viper environments that are known to work
 
 ### Cadence Virtuoso Environment Packages
 
+- [Viper](http://www.cascode-labs.org/viper/) IC design Environment
 - [virtue](http://www.cascode-labs.org/virtue/) Cadence Virtuoso support
 - [skill-bridge](https://unihd-cag.github.io/skillbridge/) Python-SKILL interface
 - [libpsf](https://pypi.org/project/libpsf/) Spectre PSF results reader
