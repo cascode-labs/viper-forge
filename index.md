@@ -8,18 +8,19 @@ Viper and viper-forge packages make it really easy to get started designing an i
 
 We're currently developing Conda build recipes for an initial set of projects to support on viper-forge.
 
-## Viper Free Silicon Environment Packages
+## Viper environments
+
+We're also developing a set of curated viper environments that are known to work.  These will be Conda environment definition yaml files containing the packages required by the environment.
+
+### Viper Free Silicon Environment Packages
 
 - [Viper](http://www.cascode-labs.org/viper/) IC design Environment
 - [xschem](http://repo.hu/projects/xschem/xschem_man/xschem_man.html) Schematic Editor
 - [magic](http://opencircuitdesign.com/magic/index.html) layout editor
 - [xcircuit](http://opencircuitdesign.com/xcircuit/index.html) schematic editor
-
-## Simulator Packages
-
 - [Xyce](https://xyce.sandia.gov/) Simulator
 
-## Cadence Virtuoso Support Packages
+### Cadence Virtuoso Environment Packages
 
 - [virtue](http://www.cascode-labs.org/virtue/) Cadence Virtuoso support
 - [skill-bridge](https://unihd-cag.github.io/skillbridge/) Python-SKILL interface
